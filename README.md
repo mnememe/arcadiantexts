@@ -1,6 +1,8 @@
 # arcadiantexts
 Digitised material relating to the Arcadian Academy
 
+# Giovanni Mario Crescimbeni
+
 Giovanni Mario Crescimbeni, Rime Degli Arcadi Tomo Terzo, Published by Antonio Rossi, 1716 
 https://books.google.com.au/books?id=S_5thw5AiPEC&pg=PA3#v=onepage&q&f=false
 
@@ -36,5 +38,13 @@ https://books.google.com.au/books?id=JHjNAAAAMAAJ&pg=PA5#v=onepage&q&f=false
 
 Giovanni Maria Crescimbeni, L'Istoria della volgar poesia scritta, Vol 5
 
+
+
+
 Giovanni Maria Crescimbeni, L'Istoria della volgar poesia scritta, Vol 6
 https://books.google.com.au/books?id=MTx9AON08I8C&pg=PP5#v=onepage&q&f=false
+
+# Michel Giuseppe Morei
+
+Memorie istoriche dell'Adunanza degli Arcadi, 1730
+https://books.google.com.au/books?id=a7M3fG0F8OoC&dq=padri%20riformati%20arcadi&pg=PP5#v=onepage&q&f=false
