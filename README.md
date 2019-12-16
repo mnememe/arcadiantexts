@@ -31,10 +31,12 @@ https://books.google.com.au/books?id=23kMErQZdJkC&pg=PP3#v=onepage&q&f=false
 
 Giovanni Maria Crescimbeni, L'Istoria della volgar poesia scritta, Vol 3
 
-Giovanni Maria Crescimbeni, L'Istoria della volgar poesia scritta, Vol 4
+Giovanni Maria Crescimbeni, L'Istoria della volgar poesia scritta, Vol 4, 1730
+
 
 Comentarj del Canonico Gio. Mario Crescimbeni custode d'Arcadia intorno alla sua istoria della Volgar Poesia Volume Quarto. Pubblicato d'ordine della Generale Adunanza degli Arcadi, e contenente un Memoriale di molti Rimatori non compresi ne'Volumi antecedenti (1730)
 https://books.google.com.au/books?id=JHjNAAAAMAAJ&pg=PA5#v=onepage&q&f=false
+https://archive.org/details/bub_gb_I9viOz6d5JUC/page/n6
 
 Giovanni Maria Crescimbeni, L'Istoria della volgar poesia scritta, Vol 5
 
@@ -48,3 +50,14 @@ https://books.google.com.au/books?id=MTx9AON08I8C&pg=PP5#v=onepage&q&f=false
 
 Memorie istoriche dell'Adunanza degli Arcadi, 1730
 https://books.google.com.au/books?id=a7M3fG0F8OoC&dq=padri%20riformati%20arcadi&pg=PP5#v=onepage&q&f=false
+
+# Vincenzo Gravina
+Della tragedia libro uno, 1731
+https://books.google.com.au/books?id=pMu6nyncx_8C&printsec=frontcover#v=onepage&q&f=false
+
+Della ragion poetica lib. 2. Della tragedia lib. 1. Tragedie 5. ... poesie varie., 1757
+https://archive.org/details/bub_gb_ipPLrD1SDuUC/page/n91
+
+# Scipione Maffei
+Teatro italiano, o sia, Scelta di tragedie per uso della scena : premessa un'istoria del teatro, e difesa di esso, 1723
+https://archive.org/details/teatroitalianoos01tris/page/n3
