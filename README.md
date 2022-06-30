@@ -12,6 +12,8 @@ https://books.google.com.au/books?id=s5_OgiHRyfkC&pg=PP7#v=onepage&q&f=false
 L'Arcadia, Giovan Mario Crescimbeni, Rome, 1708 [from National Central Library of Florence]
 https://archive.org/details/bub_gb_ez4dFjf-xsMC/
 
+Storia dell'Accademia degli Arcadi istituita in Roma l'anno, pubihed 1712, 1804 edition https://babel.hathitrust.org/cgi/pt?id=gri.ark:/13960/t6c27s777&view=1up&seq=7
+
 Giovanni Mario Crescimbeni, Rime Degli Arcadi Tomo Terzo, Published by Antonio Rossi, 1716 
 https://books.google.com.au/books?id=S_5thw5AiPEC&pg=PA3#v=onepage&q&f=false
 
