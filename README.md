@@ -21,6 +21,9 @@ https://books.google.com.au/books?id=S_5thw5AiPEC&pg=PA3#v=onepage&q&f=false
 Adunanza tenuta dagli Arcadi in onore de i fondatori d'Arcadia aggiuntavi vna lettera intorno a i luoghi, ove le arcadiche adunanze si sono sin'ora tenute
 https://books.google.com.au/books?id=dXYiqHmusbIC&pg=PP9#v=onepage&q&f=false
 
+Rime degli Arcadi. Tomo primo. Raccolta di vari poemtti lirici, drammatici, e ditirambici, 1722
+https://www.google.com.au/books/edition/Rime_degli_Arcadi_Tomo_primo_decimoquart/jTWPvWC8vxEC?hl=en&gbpv=0
+
 Giovanni Maria Crescimbeni, L'Istoria della volgar poesia scritta 'In questa seconda impressione, fatta d'ordine della Ragunanza degli Arcadia, corretta, riformata, e notabilmente ampliata (1714)
 https://books.google.com.au/books?id=9HJcAAAAcAAJ&pg=PR6#v=onepage&q&f=false
 
@@ -44,6 +47,7 @@ https://archive.org/details/listoriadellavo00mancgoog/page/n8/mode/2up
 
 Giovanni Maria Crescimbeni, L'Istoria della volgar poesia scritta 'In questa seconda impressione, fatta d'ordine della Ragunanza degli Arcadia, corretta, riformata, e notabilmente ampliata ; E in questa TERZA pubblicata unitamente co i Comentarj intorno alla medesima, riordinata, ed accresciuta (1731)
 https://books.google.com.au/books?id=mWrNAAAAMAAJ&pg=PP11#v=onepage&q&f=false
+
 
 # Editions of the Giuochi Olimpici
 The first games in 1693 were not published (records in the Biblioteca Angelica)
