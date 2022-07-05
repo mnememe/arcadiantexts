@@ -13,6 +13,7 @@ L'Arcadia, Giovan Mario Crescimbeni, Rome, 1708 [from National Central Library o
 https://archive.org/details/bub_gb_ez4dFjf-xsMC/
 
 Storia dell'Accademia degli Arcadi istituita in Roma l'anno, pubihed 1712, 1804 edition https://babel.hathitrust.org/cgi/pt?id=gri.ark:/13960/t6c27s777&view=1up&seq=7
+https://books.google.com.au/books?id=XI4HAAAAQAAJ&pg=PA83&dq=Notizia+del+nuovo+teatro+degli+Arcadi&
 
 Giovanni Mario Crescimbeni, Rime Degli Arcadi Tomo Terzo, Published by Antonio Rossi, 1716 
 https://books.google.com.au/books?id=S_5thw5AiPEC&pg=PA3#v=onepage&q&f=false
@@ -22,7 +23,6 @@ https://books.google.com.au/books?id=dXYiqHmusbIC&pg=PP9#v=onepage&q&f=false
 
 Giovanni Maria Crescimbeni, L'Istoria della volgar poesia scritta 'In questa seconda impressione, fatta d'ordine della Ragunanza degli Arcadia, corretta, riformata, e notabilmente ampliata (1714)
 https://books.google.com.au/books?id=9HJcAAAAcAAJ&pg=PR6#v=onepage&q&f=false
-
 
 Giovanni Maria Crescimbeni, L'Istoria della volgar poesia scritta, Vol 2 Part 1(1730)
 https://books.google.com.au/books?id=23kMErQZdJkC&pg=PP3#v=onepage&q&f=false
@@ -37,12 +37,40 @@ https://archive.org/details/bub_gb_I9viOz6d5JUC/page/n6
 
 Giovanni Maria Crescimbeni, L'Istoria della volgar poesia scritta, Vol 5
 
-
+1731
 Giovanni Maria Crescimbeni, L'Istoria della volgar poesia scritta, Vol 6
 https://books.google.com.au/books?id=MTx9AON08I8C&pg=PP5#v=onepage&q&f=false
+https://archive.org/details/listoriadellavo00mancgoog/page/n8/mode/2up
 
 Giovanni Maria Crescimbeni, L'Istoria della volgar poesia scritta 'In questa seconda impressione, fatta d'ordine della Ragunanza degli Arcadia, corretta, riformata, e notabilmente ampliata ; E in questa TERZA pubblicata unitamente co i Comentarj intorno alla medesima, riordinata, ed accresciuta (1731)
 https://books.google.com.au/books?id=mWrNAAAAMAAJ&pg=PP11#v=onepage&q&f=false
+
+# Editions of the Giuochi Olimpici
+The first games in 1693 were not published (records in the Biblioteca Angelica)
+
+1701
+I Giuochi Olimpici celebrati dagli Arcadi ... pubblicati da Gio. Mario de’Crescimbeni, 1701.
+https://www.google.com.au/books/edition/I_Giuochi_Olimpici_celebrati_dagli_Arcad/NghgAAAAcAAJ 
+
+1705
+I Giuochi Olimpici celebrati in Arcadia nell’Olimpiade DCXXI. in lode degli Arcadi defunti, e pubblicati da G. M. de’Crescimbeni, 1705. https://www.google.com.au/books/edition/I_Giuochi_Olimpici_celebrati_in_Arcadia/90VgAAAAcAAJ?hl=en&gbpv=0 
+
+1710
+I giuochi olimpici celebrati in Arcadia nell'Olimpiade 622. https://www.google.com.au/books/edition/I_guochi_sic_olimpici_celebrati_in_Arcad/it4un2nxjuIC?
+
+1721
+I giuochi olimpici celebrati dagli Arcadi nell'ingresso dell'Olimpiade DCXXV. in lode della Santità di N.S. papa Innocenzio XII.
+https://archive.org/details/igiuochiolimpici00cres 
+
+1726
+Rossi, Antonio de, Giovanni Mario Crescimbeni, Louis Gomier, Ferdinando Fuga, and Accademia degli Arcadi. I giuochi olimpici celebrati dagli Arcadi per l’ingresso dell’Olimpiade DCXXVI. in lode della Sacra Real Maestà di Giovanni V., re di Portogallo. In Roma : Nella stamperia di Antonio de’ Rossi, 1726. http://archive.org/details/olimpicicelebrat00ross.
+
+
+# Giovardi, Vettori
+
+Notizia del nuovo teatro degli Arcadi : aperto in Roma l'anno MDCCXXVI
+by Giovardi, Vettorio; Canevari, Antonio, b. 1681; Franceschini, Vincenzo, 1680-ca.1744; Vasconi, Filippo, 1687?-1730; Fuga, Ferdinando, 1699-1782
+https://archive.org/details/notiziadelnuovot00giov/page/n61/mode/2up
 
 # Michel Giuseppe Morei
 
